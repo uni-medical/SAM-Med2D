@@ -7,7 +7,7 @@ The official codebase has been transferred to [OpenGVLab/SAM-Med2D](https://gith
 - **Contact:** Junjun He(hejunjun@pjlab.org.cn), Jin Ye(yejin@pjlab.org.cn), and Tianbin Li (litianbin@pjlab.org.cn).
 
 ## Reference
-If you find our SAM-Med helpful in your project, please kindly cite:
+If you find our SAM-Med2D helpful in your project, please kindly cite:
 ```
 @misc{cheng2023sammed2d,
       title={SAM-Med2D}, 
